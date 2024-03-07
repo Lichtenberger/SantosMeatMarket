@@ -29,6 +29,8 @@ section {
 section img {
     width: 33%;
     height: auto;
+    margin: 0;
+    padding: 0;
 }
 
 h3 {
